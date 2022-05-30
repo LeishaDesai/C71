@@ -1,0 +1,29 @@
+body
+{
+    text-align: center;
+}
+.travelDiv{
+    border: 1px solid #d71a1a; 
+    padding-left: 0px; 
+    padding-right: 0px;
+     float: none;
+}
+.movie_head{
+    width: 100%;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 6px 20px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_head p{
+    float: left;
+}
+.movie_text span{
+color: orange;
+}
+.modal-body{
+    text-align: center;
+}
